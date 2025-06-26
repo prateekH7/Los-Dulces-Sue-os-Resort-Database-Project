@@ -1,8 +1,6 @@
 # Los-Dulces-Sue-os-Resort-Database-Project
 
-
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/370f6d2a-23b0-4236-a3a7-8c378d1c0568)
 
 # 🌴 Los Dulces Sueños Resort Database System
 
